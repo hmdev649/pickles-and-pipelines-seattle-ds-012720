@@ -1,6 +1,6 @@
 # Introduction to Pipelines
 
-This repository introduces the concepts of pipelines using the [`scikit-learn`] library.
+This repository introduces the concepts of pipelines using the [`scikit-learn`](https://scikit-learn.org/stable/modules/compose.html#pipeline) library.
 
 ## `pipeline-env`
 
